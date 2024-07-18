@@ -1,7 +1,7 @@
-# BotPXLVER
+# Bot untuk Reveral Pixel verse
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/gvoze32/botpxlver.git`
+1. Clone the repository: `git clone https://github.com/namoradigital/botpxlver.git
 2. Navigate to the project directory: `cd botpxlver`
 3. Install node dependencies: `npm i`
 
